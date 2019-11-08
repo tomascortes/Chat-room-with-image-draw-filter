@@ -1,0 +1,8 @@
+{"nombre": "empty", "foto": "empty.png", "id": 0, "contrasena": "imposible"}
+{"nombre": "f", "foto": "f.png", "id": 0, "contrasena": "$2b$14$KX84Imh3j1Ut9iV2.9BL/.sDR7dBpk.d/w2GyZhBPEyVXYX5Y15Ke"}
+{"nombre": "t", "foto": "empty.png", "id": 0, "contrasena": "$2b$14$E0zXKOmP7zDWYnh.jPn0WOPEjtQOqnAyYpJuXKx7iMYfWAAoBJgT6"}
+{"nombre": "ttt", "foto": "empty.png", "id": 0, "contrasena": "$2b$14$qMvCRhcr.ICIEEPoXOZ8yeA8EXnD1cuf1P2GhgaEQY6WCmJl1b7P6"}
+{"nombre": "Ignacio", "foto": "empty.png", "id": 0, "contrasena": "$2b$14$gF.ghIKihS7GuFJKmkHobePq.BbIygSkWuVdKrgwxsmnmQ83TSg3K"}
+{"nombre": "antonia", "foto": "antonia.png", "id": 0, "contrasena": "$2b$14$zyrSoXlIW2e0fPR9FykEJ.HBuFCGUCLcBRTTOMsQRDjcV5wLPu0uS"}
+{"nombre": "tomasss", "foto": "empty.png", "id": 0, "contrasena": "$2b$14$Q/sVgLv5SSsWa/Yw1FjlfOoyV9aLMj7ptPIeLC9u016KybhVrXXAK"}
+{"nombre": "anto", "foto": "empty.png", "id": 0, "contrasena": "$2b$14$FBZ2HqXwdsCSr4FGxC8ty./z4i.bY6ecdLlMr6BUpoGF0TzkZ.fQe"}
