@@ -1,4 +1,4 @@
-# Tarea III: Timbiriche :school_satchel:
+# Tarea III: Chat Room using python:school_satchel:
 
 ## Consideraciones generales :octocat:
 
@@ -111,18 +111,6 @@ Por otro lado, los módulos que fueron creados fueron los siguientes:
 7. ```servidor```-> Se importa ```Servidor```, esta clase maneja todos los mensajes que le llegan de los clientes.
 8. ```parametros```-> Se importan los parametros ```N```, ```P```, ```PIX```, que se utilizan en hacer el tablero de juego.
 
-
-## Supuestos y consideraciones adicionales :thinking:
-Los supuestos que realicé durante la tarea son los siguientes:
-
-1. Asumí que utilizando el comando "\chao", una persona podía ponerse a ella misma
-Esto ya que una persona puede encontrar que merece ser hechada de una sala, y
-debe tener la opción de votar para aquello
-2. Supuse que el imprimir en consola es suficiente para decir que se manejó bien la caída del servidor en el bonus "Servidor Robusto"
-3. Supuese que al usar el filtro dibujo este debía guardarse, ya que no es lo ideal estar siempre apretando filrar cada vez que entras a jugar.
-
-
-PD: Esto no es algo que asumí, pero no leí lo de guardar datos en formato json, pero se puede ver que lo se usar... eso 😢
 
 
 
