@@ -113,5 +113,3 @@ Por otro lado, los módulos que fueron creados fueron los siguientes:
 
 
 
-
-![Si esto se ve no se cargó mi meme :()](https://github.com/IIC2233/tomascortes-iic2233-2019-1/blob/master/Tareas/T03/meme.jpg)
