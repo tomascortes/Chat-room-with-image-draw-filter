@@ -1,6 +1,6 @@
 # Chat Room using python:school_satchel:
 
-## Consideraciones generales :octocat:
+## General considerations :octocat:
 
 The program consists of a client server interface that can log people
 save your profile pictures, apply a drawing filter to them, start waiting rooms
